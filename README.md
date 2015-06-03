@@ -6,35 +6,29 @@
     <thead>
 	<tr>
 	    <td>General Name</td>
-	    <td>ArchLinux/CopyBoxLinux Package</td>
-		<td>Raspbian</td>
+		<td>OS X</td>
 	</tr>
     </thead>
     <tbody>
 	<tr>
 	    <td>Python 2</td>
-	    <td>python2</td>
-		<td>python2.7</td>
+	    <td>python27</td>
 	</tr>
 	<tr>
 	    <td>Fuse</td>
-	    <td>fuse</td>
-		<td>fuse</td>
+	    <td>osxfuse</td>
 	</tr>
 	<tr>
 	    <td>Python Fuse Bindings</td>
-	    <td>python2-fuse</td>
-		<td>python-fuse</td>
+	    <td>py27-fuse</td>
 	</tr>
 	<tr>
 	    <td>Python URLLib3</td>
-	    <td>python2-urllib3</td>
-		<td>python-urllib3</td>
+		<td>urllib3</td>
 	</tr>
 	<tr>
 	    <td>Python Setuptools utility</td>
-	    <td>python2-distribute</td>
-		<td>python-setuptools</td>
+	    <td>py27-setuptools</td>
 	</tr>
     </tbody>
 </table>
