@@ -1,3 +1,8 @@
+
+## WARNING: Unmaintained!
+
+### This repo is no longer maintained and kept just for legacy purposes. This because [Barracuda Networks has discontinued Copy](https://techlib.barracuda.com/Copy/EndOfLife).
+
 # Readme for Copy-Fuse
 
 ## Usage Prequisites
